@@ -5,4 +5,6 @@ Limitations:
 - The model's performance is limited by the quality and authenticity of the data.
 - Further validation with authentic data is necessary to confirm the findings
 
+Data Source: https://www.kaggle.com/datasets/ak0212/uae-cancer-patient-dataset/data?select=_cancer_dataset_uae.csv
+
 Disclosure: uae_cancer_refined was rearranged, had code cleaned, and was annotated via GPT-4o model.
